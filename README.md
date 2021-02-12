@@ -6,4 +6,4 @@ A simple to-do list app made with React. Items are saved to `localStorage` using
 * Run `yarn && yarn start`
 
 ## Screenshot
-![To-Do](https://raw.githubusercontent.com/bgrapes/to-do/master/src/images/screenshot.png)
+<img src="https://i.imgur.com/gV0DDax.png" alt="To-Do" width="50%" />
